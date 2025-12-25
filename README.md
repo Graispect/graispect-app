@@ -1,10 +1,16 @@
-# graispect – ios social app (in development)
+# graispect — iOS social app
 
 a private, friends-only social app built around comfort, presence,  
 and creating a space without algorithms, explore pages, or endless doom scrolling.
 
+---
+
+## concept
+
 this project reflects my design thinking, my creative vision,  
 and my need for an app that feels human.
+
+---
 
 ### what i worked on
 
@@ -15,20 +21,34 @@ and my need for an app that feels human.
 - built the posting system (glimpses, moods, thoughts, tunes, daily questions).
 - designed and deployed the app’s landing page (html, css, js).
 
-### why it’s private
+---
 
-the app is still in development and contains original ux concepts  
-that i'd like to keep confidential until launch.  
+## features
+
+- friends-only
+- posting formats:
+  - glimpses
+  - moods
+  - thoughts
+  - tunes
+  - daily questions
+- custom interaction flows
+- distraction-free UI with my personality
+
+---
+  
+### status
+
+the app is still in active development (as it should be) and contains original ux concepts.
+the repository is public for visibility, but implementation details are intentionally limited,
 no code or full demo is public yet (unless i hand you my laptop & my phone).
 
 ### stack
 
-swift, swiftui  
-firebase  
-figma 
-sketch
-procreate  
-html, css, js  
+- Swift / SwiftUI
+- Firebase
+- Figma, Sketch, Procreate
+- HTML, CSS, JavaScript
 
 peace, 
 mk  

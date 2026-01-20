@@ -3,6 +3,8 @@
 a private, friends-only social app built around comfort, presence,  
 and creating a space without algorithms, explore pages, or endless doom scrolling.
 
+https://apps.apple.com/us/app/graispect/id6754794501
+
 ---
 
 ## concept

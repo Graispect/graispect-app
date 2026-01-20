@@ -3,7 +3,6 @@
 a private, friends-only social app built around comfort, presence,  
 and creating a space without algorithms, explore pages, or endless doom scrolling.
 
-https://apps.apple.com/us/app/graispect/id6754794501
 
 ---
 
@@ -51,6 +50,14 @@ no code or full demo is public yet (unless i hand you my laptop & my phone).
 - Firebase
 - Figma, Sketch, Procreate
 - HTML, CSS, JavaScript
+
+## links
+- app store: https://apps.apple.com/us/app/graispect/id6754794501
+- website: https://graispect.com
+- privacy: https://graispect.com/privacy
+- terms: https://graispect.com/terms
+- support: https://graispect.com/support
+
 
 peace, 
 mk  
